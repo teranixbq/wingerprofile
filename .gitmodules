@@ -1,0 +1,3 @@
+[submodule "hugo-server"]
+	path = /themes/hugo-server
+	url = https://github.com/teranixbq/hugo-server
