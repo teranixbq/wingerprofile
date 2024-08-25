@@ -132,10 +132,10 @@ params:
     intro: "Hi, my name is"
     title: "Ahmad Muharam Jiddan Wahono"
     content: "Software Quality Engineer"
-    image: /images/herojd.jpeg
+    image: /images/mejd.png
     bottomImage:
       enable: true
-    # roundImage: true # Make hero image circular | default false
+      roundImage: true # Make hero image circular | default false
     # button:
     #   enable: true
     #   name: "Resume"
@@ -153,7 +153,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/herojd.jpeg"
+    # image: "/images/mejd.png"
     content: |-
       I am a Project Management Enthusiast and Quality Assurance who has experience in the fields of Functional Testing, Non-Functional Testing, Testing Documentation, BDD, and also has experience in carrying out Project Management using the Agile Method. At Independent Study Campus Batch 5 at Alterra Academy, I had the opportunity to become head of the QA division. 
       
@@ -322,7 +322,7 @@ params:
     items:
       - title: RecyThing
         content: RecyThing is an application that operates in the environmental sector, the aim of this application is to make it easier for users to exchange their waste for points which can be exchanged for vouchers. In this project I act as QA Lead and Scrum master.
-        image: /images/projects/profile.png
+        image: /images/projects/recything.png
         featured:
           name: Repository
           link: https://bit.ly/RECYTING_QA
