@@ -1,4 +1,4 @@
-baseURL: "https://jiddan.aboutme.my.id"
+baseURL: "https://example.org/"
 languageCode: "en-us"
 title: "Jiddan Profile"
 theme: "hugo-server"
